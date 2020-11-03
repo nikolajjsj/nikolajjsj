@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello there, I'm Nikolaj [website] 👋
 
-<!--
-**nikolajjsj/nikolajjsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experienced Flutter developer and biologist, weird i know...
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a Twitter application
+- 🌱 I’m currently learning Angular 🤣
+- 👯 I’m looking to become better at my craft
+- 🥅 2020 Goals: Finish the development of my Twitter client built with Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+---
+
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=nikolajjsj&show_icons=true&hide_border=true&count_private=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolajjsj)](https://github.com/anuraghazra/github-readme-stats)
+
+[website]: https://nikolajjsj.com
+[twitter]: https://twitter.com/nikolaj_jsj
+[instagram]: https://instagram.com/https://www.instagram.com/nikolajjsj/
