@@ -17,7 +17,7 @@
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=nikolajjsj&show_icons=true&count_private=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolajjsj)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolajjsj&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://nikolajjsj.com
 [twitter]: https://twitter.com/nikolaj_jsj
