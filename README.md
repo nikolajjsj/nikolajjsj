@@ -2,11 +2,6 @@
 
 ## Experienced Flutter developer and biologist, weird i know...
 
-- 🔭 I’m currently working on a Twitter application
-- 🌱 I’m currently learning Angular 🤣
-- 👯 I’m looking to become better at my craft
-- 🥅 2020 Goals: Finish the development of my Twitter client built with Flutter
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikolajjsj&show_icons=true&count_private=true" />
 </a>
