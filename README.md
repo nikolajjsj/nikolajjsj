@@ -1,6 +1,6 @@
 ### Hello there, I'm Nikolaj [website] 👋
 
-## Experienced Flutter developer and biologist, weird i know...
+## Experienced developer and biologist
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikolajjsj&show_icons=true&count_private=true&theme=dracula" />
